@@ -1,0 +1,36 @@
+/*Custom style*/
+.banner-bar {
+	width: 700px;
+}
+.banner-logo {
+	width: 40px;
+	height: 40px;
+	margin-top: 5px;
+}
+.banner-buttons {
+	margin-top: 200px;
+}
+.bg1 {
+	/*width: 100%;*/
+}
+.h33 {
+	color: #fff;
+}
+.h34 {
+	color: #fff;
+}
+.bg-for-text{
+	width: 100%;
+	/*background-color: #fff;*/
+	opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+.banner-title-w-logo {
+	color: #606060;
+}
+.title-bar {
+	margin-top: 5px;
+}
+.mapSize {
+	width: 100%;
+}
